@@ -1,3 +1,7 @@
 [submodule "vendor/test2"]
 	path = vendor/test2
 	url = ssh://git@github.com/matdieuhau999/test2.git
+[submodule "vendor/test4"]
+	path = vendor/test4
+	url = git@github.com:matdieuhau999/test4.git
+	branch = master
